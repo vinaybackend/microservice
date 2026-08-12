@@ -19,5 +19,6 @@ public class GatewayConfig {
                         .uri("lb://QUIZ-SERVICE")
                 )
                 .build();
+
     }
 }
